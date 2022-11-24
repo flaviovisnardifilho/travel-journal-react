@@ -13,7 +13,7 @@
     "web-vitals": "^2.1.4"
   },
 
-  "homepage": "http://{github-username}.github.io/{repo-name}",
+  "homepage": "https://flaviovisnardifilho.github.io/travel-journal-react/",
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
